@@ -1,7 +1,7 @@
 {
-  "name": "[RU] VK -> Music Fix ",
-  "version": "1.1",
-  "description": "Удаляет лишние елементы в веб версии вк. Заменяет ссылку музыки и добавляет ?section=all. By Underko",
+  "name": "[RU] Nekto Me Skipper ",
+  "version": "1.0",
+  "description": "Автоматически  начинает звонок после скипа собеседника  в некто ми ?section=all. By SKAYY404",
   "manifest_version": 3,
   "content_scripts": [
     {
@@ -11,7 +11,7 @@
     }
   ],
   "action": {
-    "default_title": "VK Music Fix",
+    "default_title": "Nekto Me Skipper",
     "default_popup": "index.html"
   },
   "icons": {
